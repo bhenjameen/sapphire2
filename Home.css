@@ -1673,6 +1673,22 @@
   margin: 0;
 }
 
+.u-section-8 .u-form-group-1 {
+  width: 100%;
+}
+
+.u-section-8 .u-form-group-2 {
+  width: 100%;
+}
+
+.u-section-8 .u-form-group-3 {
+  width: 100%;
+}
+
+.u-section-8 .u-form-group-4 {
+  width: 100%;
+}
+
 .u-section-8 .u-btn-1 {
   font-weight: 700;
   text-transform: uppercase;
@@ -1791,21 +1807,5 @@
   .u-section-8 .u-container-layout-3 {
     padding-top: 23px;
     padding-bottom: 23px;
-  }
-
-  .u-section-8 .u-form-group-1 {
-    width: 100%;
-  }
-
-  .u-section-8 .u-form-group-2 {
-    width: 100%;
-  }
-
-  .u-section-8 .u-form-group-3 {
-    width: 100%;
-  }
-
-  .u-section-8 .u-form-group-4 {
-    width: 100%;
   }
 }
